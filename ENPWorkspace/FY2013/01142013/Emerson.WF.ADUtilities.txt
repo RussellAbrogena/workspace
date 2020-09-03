@@ -1,3 +1,0 @@
-ADDomain			=	emrsn.org
-ADUser				=	enpap.workflow1
-ADPassword			=	Password2

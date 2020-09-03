@@ -1,3 +1,0 @@
-ADDomain			=	emrsn.org
-ADUser				=	wf.adquery
-ADPassword			=	wcqr41ptl

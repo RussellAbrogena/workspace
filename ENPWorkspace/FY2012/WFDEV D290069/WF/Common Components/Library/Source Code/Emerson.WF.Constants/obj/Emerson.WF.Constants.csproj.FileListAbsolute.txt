@@ -1,7 +1,0 @@
-E:\2 - WORKFLOW\WORKING SOURCE CODE\Workspace\ENPWorkspace\FY2012\WFDEV D290069\WF\Common Components\Library\Compiled Code\Emerson.WF.Constants.dll
-E:\2 - WORKFLOW\WORKING SOURCE CODE\Workspace\ENPWorkspace\FY2012\WFDEV D290069\WF\Common Components\Library\Compiled Code\Emerson.WF.Constants.pdb
-E:\2 - WORKFLOW\WORKING SOURCE CODE\Common Components\Library\Compiled Code\Emerson.WF.Constants.dll
-E:\2 - WORKFLOW\WORKING SOURCE CODE\Common Components\Library\Compiled Code\Emerson.WF.Constants.pdb
-E:\2 - WORKFLOW\WORKING SOURCE CODE\Workspace\ENPWorkspace\FY2012\WFDEV D290069\WF\Common Components\Library\Source Code\Emerson.WF.Constants\obj\Debug\ResolveAssemblyReference.cache
-E:\2 - WORKFLOW\WORKING SOURCE CODE\Workspace\ENPWorkspace\FY2012\WFDEV D290069\WF\Common Components\Library\Source Code\Emerson.WF.Constants\obj\Debug\Emerson.WF.Constants.dll
-E:\2 - WORKFLOW\WORKING SOURCE CODE\Workspace\ENPWorkspace\FY2012\WFDEV D290069\WF\Common Components\Library\Source Code\Emerson.WF.Constants\obj\Debug\Emerson.WF.Constants.pdb
